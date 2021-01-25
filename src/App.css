@@ -98,6 +98,15 @@ a{
 }
 
 
+.btn-delete{
+  background:transparent;
+   border:none;
+
+}
+
+.btn-delete :hover{
+transform: scale(1.1);
+}
 
 .form-nuevo input{
   display:block;
