@@ -1,3 +1,6 @@
+*Proceso de selección - Agilia *
+Usando una fake api  implementa como mínimo un CRUD (Create, Read, Updatey Delete) que esté paginado. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
