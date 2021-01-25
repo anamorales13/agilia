@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Slider from './components/Slider';
 import Users from './components/Users';
 import nuevo from './components/NuevoUser';
+import Footer from './components/Footer';
 
 class Rutas extends Component {
     render() {
@@ -24,7 +25,7 @@ class Rutas extends Component {
 
 
                 </Switch>
-
+<Footer/>
                 <div className="clearfix"></div>
 
 

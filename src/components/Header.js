@@ -19,6 +19,7 @@ class Header extends Component {
                         <li>
                             <NavLink to="/nuevo-contacto" activeClassName="active" > NUEVO CONTACTO</NavLink>
                         </li>
+                    
                        
                     </ul>
                 </nav>
